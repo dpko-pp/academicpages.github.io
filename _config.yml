@@ -53,20 +53,7 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+
 
 
 # Analytics
@@ -84,7 +71,7 @@ author:
   location         : "山东省青岛市黄岛区长江西路66号"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=UmfsBYIAAAAJ&view_op=list_works&gmla=AJsN-F6zT0yTJhxNI8IRBFabN17yt4mG8jeXhrNwsng6hquuVxV9v2smn6ifAYeowT0f_lZPns-7D1gfwpJ265le0xsp-uep4BbJXGTfpwZPzSzkdAaSosEFdse4JOlD7HyhW8hC7HQaXbTGL7_sh1Uyas1BfVW4Pg"
-  email            :
+  email            : kongdepeng@upc.edu.cn
   uri              :
   bitbucket        :
   codepen          :
