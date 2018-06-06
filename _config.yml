@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Depeng Kong / Energy Safety"
+title                    : "孔得朋 / 油气及锂电池安全"
 title_separator          : "-"
-name                     : &name "Depeng Kong"
+name                     : &name "孔得朋"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Depeng Kong"
+  name             : "孔得朋"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "山东青岛 中国石油大学"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
