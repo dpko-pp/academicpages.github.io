@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "论文"
     url: /publications/
 
-  - title: "Projects"
+  - title: "项目"
     url: /projects/    
 
-  - title: "Teaching"
+  - title: "教学"
     url: /teaching/    
     
-  - title: "Group members"
+  - title: "成员"
     url: /group/
         
   - title: "Blog Posts"
