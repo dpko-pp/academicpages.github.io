@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: ""
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 
+date: 
+venue: 
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+1. Ping, Ping, Ke Wang, Depeng Kong, and Guoming Chen. "Estimating probability of success of escape, evacuation, and rescue (EER) on the offshore platform by integrating Bayesian Network and Fuzzy AHP." Journal of Loss Prevention in the Process Industries 54 (2018): 57-68.
+2. Ping, Ping, Ke Wang, and Depeng Kong. "Analysis of emergency evacuation in an offshore platform using evacuation simulation modeling." Physica A: Statistical Mechanics and its Applications 505 (2018): 601-612.
